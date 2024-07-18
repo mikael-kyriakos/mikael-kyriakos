@@ -1,4 +1,4 @@
-Mikael Kyriakos (He/Him)
+**Mikael Kyriakos** (He/Him)
 
 📈 Aspiring software engineer | Currently learning app development with Flutter
 
